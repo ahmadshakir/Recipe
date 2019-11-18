@@ -12,6 +12,7 @@
 		0A31190C238286BC00965BB2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A31190A238286BC00965BB2 /* Main.storyboard */; };
 		0A31190E238286BD00965BB2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A31190D238286BD00965BB2 /* Assets.xcassets */; };
 		0A311911238286BD00965BB2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A31190F238286BD00965BB2 /* LaunchScreen.storyboard */; };
+		0AE2F5042382893100E2703B /* recipetypes.xml in Resources */ = {isa = PBXBuildFile; fileRef = 0AE2F5032382893100E2703B /* recipetypes.xml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0A31190D238286BD00965BB2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0A311910238286BD00965BB2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0A311912238286BD00965BB2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0AE2F5032382893100E2703B /* recipetypes.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = recipetypes.xml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				0A311906238286BC00965BB2 /* AppDelegate.swift */,
 				0A311908238286BC00965BB2 /* ViewController.swift */,
 				0A31190A238286BC00965BB2 /* Main.storyboard */,
+				0AE2F5032382893100E2703B /* recipetypes.xml */,
 				0A31190D238286BD00965BB2 /* Assets.xcassets */,
 				0A31190F238286BD00965BB2 /* LaunchScreen.storyboard */,
 				0A311912238286BD00965BB2 /* Info.plist */,
@@ -124,6 +127,7 @@
 				0A311911238286BD00965BB2 /* LaunchScreen.storyboard in Resources */,
 				0A31190E238286BD00965BB2 /* Assets.xcassets in Resources */,
 				0A31190C238286BC00965BB2 /* Main.storyboard in Resources */,
+				0AE2F5042382893100E2703B /* recipetypes.xml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
